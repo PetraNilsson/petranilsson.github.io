@@ -198,7 +198,6 @@ a {
     display: block;
     position: relative;
     float: right;
-    /*margin-left: 8.5em;*/
     color: white;
     margin-top: 2.5em;
     margin-right: 0.3em;
@@ -237,6 +236,7 @@ a {
 .recipe_label {
     text-align: center;
     font-size: 1.5em;
+    color: pink;
 }
 
 #recipe_img {
@@ -257,6 +257,9 @@ a {
     padding-top: 1em;
 }
 
+#ingredients {
+    color: #A87B6C;
+}
 
 
 /*-----------------------media queries-----------------------*/
